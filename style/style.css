@@ -353,4 +353,5 @@ h6{font-size: 0.8rem;}
     }
     .dropdown, .dropdown .drop-card{position: unset;}
     .dropdown .drop-card{max-width: 100px !important;}
+    .card-full .card-item .card-title{text-align: start;}
 }
